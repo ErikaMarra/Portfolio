@@ -1,45 +1,33 @@
-# Portfólio de Projetos - Erika Marraccini
+# Portfólio – Erika Marraccini
 
 Olá! 👋  
-Sou **Erika Marraccini**, estudante de **Ciência da Computação** com foco em **cibersegurança e desenvolvimento Python**.  
-Este portfólio contém meus projetos pessoais e de estudo, voltados para automação, segurança, análise de dados e boas práticas de programação.
+Sou **Erika Marraccini**, estudante de **Ciência da Computação**, com foco em **cibersegurança e desenvolvimento em Python**.
+
+Este repositório reúne projetos práticos voltados à **segurança da informação**, **integridade de dados** e **automação**.
 
 ---
 
-## 💻 Habilidades e Tecnologias
-
-- **Linguagens:** Python, Bash, JavaScript  
-- **Ferramentas:** Git, Linux, Docker  
-- **Conceitos:** Hashes, Criptografia, Automação, Testes de Segurança
+## 💻 Habilidades
+- Python
+- Git e GitHub
+- Algoritmos de Hash (SHA-1, SHA-256, SHA-512)
+- Verificação de integridade de arquivos
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Projetos
 
-### [Hashes](./hashes)
-Projeto de geração e verificação de hashes.  
-- Objetivo: garantir a integridade de arquivos usando SHA-256  
-- Tecnologias: Python, hashlib  
-- Funcionalidades: geração de hash, verificação de arquivos, comparação automática  
+- **Hashes**  
+  Estudos e implementações de algoritmos de hash.  
+  📍 `projetos/hashes`
 
-### [Hash Verificação](./hash-verificacao)
-Ferramenta para verificar a integridade de arquivos.  
-- Objetivo: detectar alterações ou corrupção de arquivos  
-- Tecnologias: Python, hashlib  
-- Funcionalidades: análise de arquivos, relatório de integridade  
-
-> Clique nos nomes dos projetos para acessar os READMEs individuais com mais detalhes.
+- **Hash Verificação**  
+  Verificação da integridade de arquivos usando SHA-256.  
+  📍 `projetos/hash-verificacao`
 
 ---
 
 ## 📫 Contato
-
-- LinkedIn: (https://www.linkedin.com/in/erikamarracciniplaza/)  
-- E-mail: erikamarraccinisilvaplaza@gmail.com
-
----
-
-## ✨ Observações
-
-Este portfólio é constantemente atualizado com novos projetos e experimentos na área de cibersegurança e desenvolvimento.  
-
+GitHub: https://github.com/ErikaMarra
+`Email: erikamarraccinisilvaplaza@gmail.com
+Linkedin: https://www.linkedin.com/in/erikamarracciniplaza/
